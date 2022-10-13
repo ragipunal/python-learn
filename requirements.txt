@@ -1,2 +1,3 @@
-numpy
+pandas
+openpyxl
 Pillow==9.2.0
